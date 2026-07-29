@@ -1,4 +1,4 @@
-# Virat Kohli Century Prediction
+# Virat Kohli match result prediction
 
 ## Overview
 This project uses Machine Learning to predict match results based on Virat Kohli's international centuries.
